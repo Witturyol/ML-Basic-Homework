@@ -1,4 +1,4 @@
-# OTUS. ML-Basic
+# OTUS. ML-Basic!
 
 ## Репозиторий домашних заданий курса ML-Basic
 
